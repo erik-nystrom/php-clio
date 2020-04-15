@@ -4,15 +4,14 @@ A basic class to help facilitate command line IO in your PHP scripts.
 
 ## Usage
 
-Setup: 
+### Setup
 
-Install via Composer
+Install via Composer:
 ```
 composer require erik-nystrom/php-clio
 ```
 
-Alias/Import into your script
-
+Alias/Import into your script:
 ```
 use PHPClio\Console as Console;
 ```
