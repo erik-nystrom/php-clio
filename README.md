@@ -4,8 +4,6 @@ A basic class to help facilitate command line IO in your PHP scripts.
 
 ## Usage
 
-### Setup
-
 Install via Composer:
 ```
 composer require erik-nystrom/php-clio
