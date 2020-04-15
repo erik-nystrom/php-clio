@@ -1,6 +1,7 @@
 {
     "name": "erik-nystrom/php-clio",
     "description": "A Super simple PHP Command Line IO class",
+    "license": "MIT",
     "authors": [
         {
             "name": "Erik Nystrom",
