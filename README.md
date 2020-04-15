@@ -1,6 +1,6 @@
 # PHPClio
 
-A pretty basic class to help facilitate command line IO in your PHP scripts.
+A basic class to help facilitate command line IO in your PHP scripts.
 
 ## Usage
 
