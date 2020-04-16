@@ -2,6 +2,10 @@
 
 A basic class to help facilitate command line IO in your PHP scripts.
 
+## Why did I make this?
+
+For command line PHP applications that require some degree of input, this has served me well.
+
 ## Usage
 
 Install via Composer:
