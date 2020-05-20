@@ -82,7 +82,7 @@ class Console {
      * Write text to the output buffer.
      * 
      * @param $message Prompt the user with a message, if you want
-     * @param $allowed An array of values, used to restrict input
+     * @param $newline Newline character, set to "" if you don't want to automatically append a newline to your output.
      * @return string
      */
     public static function out($message = '', $newline = "\n") {
